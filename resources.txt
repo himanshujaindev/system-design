@@ -1,6 +1,6 @@
 https://www.hellointerview.com/dashboard
 https://github.com/ashishps1/awesome-system-design-resources
-
+https://www.geeksforgeeks.org/system-design/system-design-tutorial/
 
 
 Books;
