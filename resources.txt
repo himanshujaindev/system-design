@@ -1,0 +1,8 @@
+https://www.hellointerview.com/dashboard
+https://github.com/ashishps1/awesome-system-design-resources
+
+
+
+Books;
+"System Design Interview" by Alex Xu
+"Designing Data-Intensive Applications" by Martin Kleppmann
