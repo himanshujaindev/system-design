@@ -20,13 +20,10 @@ https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-rea
 
 
 ### ACID Properties in DB
-https://www.geeksforgeeks.org/acid-properties-in-dbms/
-- During database transactions, we need to ensure data consistency, integrity and reliability
-- Atomicity -> Entire transaction happens at once or doesnt happen at all
-- Consistency -> DB must be consistent before and after the transaction
-- Isolation -> Multiple transaction occurs indenpendently without interference
-- Durability -> Changes of a successful transaction are commited even if system fails
-
+Atomic: transactions complete fully or not at all
+Consistent: transactions move the database from one valid state to another
+Isolated: concurrent transactions don't interfere
+Durable: committed transactions persist even after crashes
 
 #### Amazon Principles
 https://www.aboutamazon.in/about-us/leadership-principles
