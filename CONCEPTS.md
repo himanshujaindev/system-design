@@ -18,12 +18,13 @@ https://refactoring.guru/design-patterns
 ### SOLID Principles
 https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
 
-
-### ACID Properties in DB
+---
+### ACID Properties
+```
 Atomic: transactions complete fully or not at all
 Consistent: transactions move the database from one valid state to another
 Isolated: concurrent transactions don't interfere
 Durable: committed transactions persist even after crashes
-
+```
 #### Amazon Principles
 https://www.aboutamazon.in/about-us/leadership-principles
